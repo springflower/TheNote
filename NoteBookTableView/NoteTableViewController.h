@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NoteTableViewController.h
 //  NoteBookTableView
 //
 //  Created by 林子涵 on 2017/5/3.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NoteTableViewController : UITableViewController
 
 @end
-
